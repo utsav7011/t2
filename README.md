@@ -21,3 +21,5 @@ samples, guidance on mobile development, and a full API reference.
   - run pub - get in order to install the dependencies reuired to run the project.
   - select the Chrome as the device to run the project
   - go to run menu -> select Run Without Debugging on order to run the project on the Chrome Window.
+
+![1dashboardImg](https://github.com/utsav7011/t2/assets/72941769/ef5bb7ab-ed8a-4af7-b5f8-3ab43b4e856a)
