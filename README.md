@@ -22,4 +22,23 @@ samples, guidance on mobile development, and a full API reference.
   - select the Chrome as the device to run the project
   - go to run menu -> select Run Without Debugging on order to run the project on the Chrome Window.
 
-![1dashboardImg](https://github.com/utsav7011/t2/assets/72941769/ef5bb7ab-ed8a-4af7-b5f8-3ab43b4e856a)
+
+The Screenshots for the otuput of the code are as follows :
+
+Landing Screen:
+![image](https://github.com/utsav7011/t2/assets/72941769/98e3204e-c60c-44e3-bd73-fef00018dca5)
+
+Phone Number Screen: 
+![image](https://github.com/utsav7011/t2/assets/72941769/8c1b05e6-77ca-4d89-8198-8911535dea2d)
+
+Dropdown to select the country codes: 
+![image](https://github.com/utsav7011/t2/assets/72941769/baeb5803-21c2-4fd2-9a6d-bfa9f485ba91)
+
+Dropdown Menu:
+![image](https://github.com/utsav7011/t2/assets/72941769/51d5e69b-d329-44b5-b25a-623f91e6c2b2)
+
+OTP Screen: 
+![image](https://github.com/utsav7011/t2/assets/72941769/84f8d3bf-a1c4-4f18-a7ce-f6d60423f093)
+
+Final Screen: 
+![image](https://github.com/utsav7011/t2/assets/72941769/2de5993c-ef2c-4171-a4ed-c0481e0eda5d)
