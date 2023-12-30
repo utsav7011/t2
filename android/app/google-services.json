@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963895808098",
+    "project_id": "otptask-ac2f2",
+    "storage_bucket": "otptask-ac2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963895808098:android:a60746789b766f254f413b",
+        "android_client_info": {
+          "package_name": "com.example.t2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3MsnxuCS4vldvhvIi99OdPG2tbzWXzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
