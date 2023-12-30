@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Instalation Instructions:
+  - Clone the repository to the local device.
+  - open the code in the Visual Studio Code.
+  - run pub - get in order to install the dependencies reuired to run the project.
+  - select the Chrome as the device to run the project
+  - go to run menu -> select Run Without Debugging on order to run the project on the Chrome Window.
